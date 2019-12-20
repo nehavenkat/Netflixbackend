@@ -1,0 +1,23 @@
+[
+    {
+        "comment": "A good book but definitely I don't like many parts of the plot",
+        "rate": 3,
+        "elementId": "tt0120737",
+        "_id": "1576846866926",
+        "createdAt": "2019-12-20T13:01:06.926Z"
+    },
+    {
+        "comment": "A good book to be read",
+        "rate": 4,
+        "elementId": "tt0167260",
+        "_id": "1576847050491",
+        "createdAt": "2019-12-20T13:04:10.491Z"
+    },
+    {
+        "comment": "Can be read once",
+        "rate": 2,
+        "elementId": "tt0167261",
+        "_id": "1576847109685",
+        "createdAt": "2019-12-20T13:05:09.685Z"
+    }
+]
